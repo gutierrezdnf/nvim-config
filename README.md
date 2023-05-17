@@ -15,5 +15,4 @@ mkdir -p ~/.config/nvim && \
     cp -R .vim ~
 ~~~
 
-Finally, open the <.vim/plugins.vim> file and type :`PlugInstall`
-
+Finally, open the *plugins.vim* file and type `:PlugInstall`

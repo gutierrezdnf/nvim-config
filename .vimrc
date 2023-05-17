@@ -3,7 +3,7 @@ syntax on
 set number
 set mouse=a
 set numberwidth=1
-set clipboard=unnamed
+set clipboard=unnamedplus
 set showcmd
 set ruler
 set cursorline
@@ -18,6 +18,9 @@ set hlsearch
 set incsearch
 set ignorecase
 set smartcase
+set hidden
+set nobackup
+set nowritebackup
 set signcolumn=yes
 set updatetime=100
 

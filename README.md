@@ -11,8 +11,8 @@ Then, copy the files to the following locations:
 ~~~sh
 mkdir -p ~/.config/nvim && \
     cp -R .config/nvim/init.vim ~/.config/nvim && \
-    cp .vimrc ~ && \
-    cp -R .vim ~
+    cp -R .vim ~ && \
+    cp .vimrc ~ 
 ~~~
 
 Finally, open the *plugins.vim* file and type `:PlugInstall`

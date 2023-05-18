@@ -15,6 +15,7 @@ Plug 'scrooloose/nerdtree'
 
 " Typing
 Plug 'jiangmiao/auto-pairs'
+Plug 'preservim/nerdcommenter'
 
 " Navigation
 Plug 'christoomey/vim-tmux-navigator'
@@ -23,7 +24,9 @@ Plug 'easymotion/vim-easymotion'
 " IDE
 Plug 'junegunn/fzf'
 Plug 'junegunn/fzf.vim'
-Plug 'mhinz/vim-signify'
 Plug 'yggdroot/indentline'
+
+" VCS
+Plug 'mhinz/vim-signify'
 
 call plug#end()

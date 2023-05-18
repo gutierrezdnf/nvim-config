@@ -10,5 +10,8 @@ let NERDTreeQuitOnOpen=1
 let NERDTreeMinimalUI=1
 let NERDTreeShowLineNumbers=1
 
+" NERDCommenter
+let g:NERDSpaceDelims=1
+
 " FZF
 let $FZF_DEFAULT_OPTS='--layout=reverse'

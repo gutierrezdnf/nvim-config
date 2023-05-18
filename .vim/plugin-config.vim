@@ -5,10 +5,10 @@ let g:gruvbox_contrast_dark = "hard"
 let g:lightline = {'colorscheme': 'gruvbox'}
 
 " NERDTree
-let NERDTreeShowHidden=1
-let NERDTreeQuitOnOpen=1
-let NERDTreeMinimalUI=1
-let NERDTreeShowLineNumbers=1
+let g:NERDTreeShowHidden=1
+let g:NERDTreeQuitOnOpen=1
+let g:NERDTreeMinimalUI=1
+let g:NERDTreeShowLineNumbers=1
 
 " NERDCommenter
 let g:NERDSpaceDelims=1

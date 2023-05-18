@@ -9,13 +9,11 @@ Plug 'itchyny/lightline.vim'
 " Themes
 Plug 'morhetz/gruvbox'
 Plug 'shinchu/lightline-gruvbox.vim'
+Plug 'ryanoasis/vim-devicons'
 
-" Tree
-Plug 'scrooloose/nerdtree'
-
-" Typing
+" Autocomplete
 Plug 'jiangmiao/auto-pairs'
-Plug 'preservim/nerdcommenter'
+Plug 'neoclide/coc.nvim'
 
 " Navigation
 Plug 'christoomey/vim-tmux-navigator'
@@ -25,6 +23,8 @@ Plug 'easymotion/vim-easymotion'
 Plug 'junegunn/fzf'
 Plug 'junegunn/fzf.vim'
 Plug 'yggdroot/indentline'
+Plug 'scrooloose/nerdtree'
+Plug 'scrooloose/nerdcommenter'
 
 " VCS
 Plug 'mhinz/vim-signify'

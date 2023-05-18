@@ -26,7 +26,7 @@ set noswapfile
 set nobackup
 set nowritebackup
 set signcolumn=yes
-set updatetime=100
+set updatetime=300
 set colorcolumn=79
 
 so ~/.vim/plugins.vim
